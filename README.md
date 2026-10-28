@@ -13,7 +13,7 @@
 ## 📌 Descripción del Sistema
 Este repositorio contiene sobre el desarrollo y mejora del **módulo de chat de IA para vendedores de Mercado Libre**:
 
-- Documentación técnica correspondientes al caso de estudio..
+- Documentación técnica correspondientes al caso de estudio.
 - Diagrama BPMN.
 - Diccionario de datos.
 
