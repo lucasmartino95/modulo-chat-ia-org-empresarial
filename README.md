@@ -18,4 +18,4 @@ Este repositorio contiene la documentación técnica, el análisis sistémico (T
 * `/diagramas`: Aloja el diagrama BPMN en formato de imagen.
 
 ### Git
- La revisión del PR fue realizada por el propio autor por tratarse de un trabajo individual; los comentarios y correcciones quedan documentados en el PR.
+La revisión del PR fue realizada por el propio autor por tratarse de un trabajo individual; los comentarios y correcciones quedan documentados en el PR.
