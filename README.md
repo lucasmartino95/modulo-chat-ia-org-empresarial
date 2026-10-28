@@ -11,14 +11,16 @@
 ---
 
 ## 📌 Descripción del Sistema
-Este repositorio contiene sobre el desarrollo y mejora del **módulo de chat de IA para vendedores de Mercado Libre**:
+**Módulo de chat de IA para vendedores de Mercado Libre**.
 
-- Documentación técnica correspondientes al caso de estudio.
+Este repositorio contiene:
+
+- Las entregas de cada parte del TPI.
 - Diagrama BPMN.
 - Diccionario de datos.
 
 ### 📂 Estructura del Repositorio
-* `/docs`: Contiene los informes conceptuales y consignas desarrolladas.
+* `/docs`: Contiene las consignas desarrolladas del TPI.
 * `/diagramas`: Aloja el diagrama BPMN y el diccionario de datos.
 
 ### Git
