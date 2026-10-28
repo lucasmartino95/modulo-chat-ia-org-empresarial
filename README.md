@@ -15,4 +15,4 @@ Este repositorio contiene la documentación técnica, el análisis sistémico (T
 
 ### 📂 Estructura del Repositorio
 * `/docs`: Contiene los informes conceptuales y consignas desarrolladas.
-* `/diagramas`: Aloja los diagramas BPMN en formato de imagen y exportaciones de modelado.
+* `/diagramas`: Aloja el diagrama BPMN en formato de imagen.
