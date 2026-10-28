@@ -23,5 +23,13 @@ Este repositorio contiene:
 * `/docs`: Contiene las consignas desarrolladas del TPI.
 * `/diagramas`: Aloja el diagrama BPMN y el diccionario de datos.
 
-### Git
+## Git
 La revisión del PR fue realizada por el propio autor por tratarse de un trabajo individual; los comentarios y correcciones quedan documentados en el PR.
+
+
+## Declaración de Uso de IA
+
+Utilicé la IA para generar gráficos y diagramas aunque yo fui corrigiendo y adaptando los resultados a 
+lo que pedían las consignas junto a los ejemplos de las actividades.
+
+También la consulté para armar la estructura de este repositorio.
